@@ -26,7 +26,7 @@ Study as much as I can to reach my goals and improve myself each day!
 	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈I am currently learning
-Unit Testing!
+Docker and Microservices
 
 ## GitHub Stats
 
