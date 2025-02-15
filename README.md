@@ -21,7 +21,7 @@ Study as much as I can to reach my goals and improve myself each day!
 ![Mockito](https://img.shields.io/badge/Mockito-45A29E?style=for-the-badge&logo=mockito&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-FF9800?style=for-the-badge&logo=primeng&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-bootsrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
