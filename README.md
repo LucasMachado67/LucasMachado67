@@ -3,7 +3,7 @@
 
 ## I'am interested in
 
-Study as much as I can to reach my goals and improve myself each day!
+I am an IT enthusiast currently transitioning into the Cloud Computing landscape, with a deep focus on the AWS Ecosystem. I am currently dedicated to obtaining my AWS Certified Solutions Architect – Associate certification, mastering how to design resilient, high-performing, and cost-optimized distributed systems.
 
 ## 📞How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-machado-1b5384248/)
@@ -27,7 +27,7 @@ Study as much as I can to reach my goals and improve myself each day!
 	![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈I am currently learning
-Docker and Microservices
+Docker, Microservices and AWS
 
 ## GitHub Stats
 
